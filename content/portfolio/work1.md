@@ -2,7 +2,7 @@
 showonlyimage = true
 draft = false
 image = "img/portfolio/xplanck.png"
-date = "2016-11-05T18:25:22+05:30"
+date = "2017-11-01T18:25:22+05:30"
 title = "Data Science in Marketing"
 weight = 0
 +++
